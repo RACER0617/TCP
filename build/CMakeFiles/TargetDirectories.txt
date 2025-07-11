@@ -1,0 +1,5 @@
+/home/astan/CLionProjects/untitled/build/CMakeFiles/epoll_wrapper.dir
+/home/astan/CLionProjects/untitled/build/CMakeFiles/calc_server.dir
+/home/astan/CLionProjects/untitled/build/CMakeFiles/calc_client.dir
+/home/astan/CLionProjects/untitled/build/CMakeFiles/edit_cache.dir
+/home/astan/CLionProjects/untitled/build/CMakeFiles/rebuild_cache.dir

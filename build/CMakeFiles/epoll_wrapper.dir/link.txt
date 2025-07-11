@@ -1,0 +1,2 @@
+/usr/bin/ar qc libepoll_wrapper.a CMakeFiles/epoll_wrapper.dir/epoll_wrapper.cpp.o
+/usr/bin/ranlib libepoll_wrapper.a

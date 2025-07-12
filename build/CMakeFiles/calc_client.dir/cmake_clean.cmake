@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/calc_client.dir/link.d"
   "CMakeFiles/calc_client.dir/client.cpp.o"
   "CMakeFiles/calc_client.dir/client.cpp.o.d"
   "calc_client"

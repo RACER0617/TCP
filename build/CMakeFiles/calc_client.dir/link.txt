@@ -1,1 +1,1 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/calc_client.dir/link.d CMakeFiles/calc_client.dir/client.cpp.o -o calc_client  libepoll_wrapper.a
+/usr/bin/c++ CMakeFiles/calc_client.dir/client.cpp.o -o calc_client  libepoll_wrapper.a 

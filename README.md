@@ -56,7 +56,7 @@
 # Перейти в корень проекта
 cd /path/to/project
 
-# Создать и перейти в каталог для сборки
+# Создать и перейти в каталог для сборки (нужно если не получается сразу собрать проект, предварительно уже существеющею папку build надо удалить)
 mkdir -p build && cd build
 
 # Сгенерировать файлы сборки
@@ -107,8 +107,6 @@ cmake --build .
 ```
 $ ./calc_server 5555
 Starting server on port 5555...
-Listening socket created (fd=3)
-Epoll instance created. Waiting for connections...
 
 #...при подключениях и вычислениях...
 ```

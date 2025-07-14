@@ -1,4 +1,3 @@
-// server.cpp
 #include "epoll_wrapper.h"
 #include <iostream>
 #include <string>
